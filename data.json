@@ -4,40 +4,87 @@
     "columnEnd": "8",
     "rowStart": "1",
     "rowEnd": "3",
-    "imgName": "4.webp",
-    "description": "івввфвіівів"
+    "imgName": "kharkiw_destroyed_house.jpg",
+    "descriptionUa": "Житловий будинок у Харкові, знищений у результаті російського обстрілу.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 9
   },
   {
     "columnStart": "8",
     "columnEnd": "13",
     "rowStart": "1",
     "rowEnd": "2",
-    "imgName": "1.webp",
-    "description": "івввфвіівів"
+    "imgName": "irpin_body_on_a_bridge.jpg",
+    "descriptionUa": "Тіло мирного жителя на знищеному мості в Ірпіні.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 11
   },
   {
     "columnStart": "8",
     "columnEnd": "13",
     "rowStart": "2",
     "rowEnd": "5",
-    "imgName": "1.webp",
-    "description": "івввфвіівів"
+    "imgName": "destroyed_houses_yasnogorodka.jpg",
+    "descriptionUa": "Результати обстрілу села Ясногородка на Київщині.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 19
   },
   {
     "columnStart": "1",
     "columnEnd": "8",
     "rowStart": "3",
     "rowEnd": "7",
-    "imgName": "2.webp",
-    "description": "івввфвіівів"
+    "imgName": "kyiv_destroyed_houses.jpg",
+    "descriptionUa": "Знищені житлові будинки у Києві. 18 березня туди впала збита російська ракета. Одна людина загинула.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 28
   },
   {
     "columnStart": "8",
     "columnEnd": "13",
     "rowStart": "5",
-    "rowEnd": "6",
-    "imgName": "3.webp",
-    "description": "івввфвіівів"
+    "rowEnd": "7",
+    "imgName": "bodies_on_road.jpg",
+    "descriptionUa": "Згорівші автомобілі і тіла на Житомирській трасі під Києвом.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 39
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "13",
+    "rowStart": "7",
+    "rowEnd": "8",
+    "imgName": "mariupol_house_on_fire.jpg",
+    "descriptionUa": "Палаючий будинок в Маріуполі після російського обстрілу.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 17
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "6",
+    "rowStart": "8",
+    "rowEnd": "9",
+    "imgName": "kyiv_people_after_shelling.jpg",
+    "descriptionUa": "Поранений в результаті російського обстрілу мещканець Києва.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 20
+  },
+  {
+    "columnStart": "6",
+    "columnEnd": "13",
+    "rowStart": "8",
+    "rowEnd": "9",
+    "imgName": "mariupol_graves_close_to_houses.jpg",
+    "descriptionUa": "Могили біля житлового будинку в Маріуполі.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 30
   }
-
 ]
