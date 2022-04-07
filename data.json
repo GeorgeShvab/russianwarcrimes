@@ -86,5 +86,49 @@
     "descriptionEn": "",
     "descriptionRu": "",
     "id": 30
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "7",
+    "rowStart": "9",
+    "rowEnd": "10",
+    "imgName": "kharkiw_destroyed_city_administration.jpg",
+    "descriptionUa": "Харківська обласна державна адміністрація після влучання російської крилатої ракети 1 березня. Загинуло 29 людей.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 2
+  },
+  {
+    "columnStart": "7",
+    "columnEnd": "13",
+    "rowStart": "9",
+    "rowEnd": "11",
+    "imgName": "kyiv_radio_tower.jpg",
+    "descriptionUa": "1 березня. Тіла загиблих після обстрілу київської телевежі окупаційними військами. Загинуло 5 нівчому не винних цивільних, ще 5 поранено.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 3
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "7",
+    "rowStart": "10",
+    "rowEnd": "12",
+    "imgName": "irpin_on_fire.jpg",
+    "descriptionUa": "Ірпінь у вогні після бомбардування.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 8
+  },
+  {
+    "columnStart": "7",
+    "columnEnd": "13",
+    "rowStart": "11",
+    "rowEnd": "12",
+    "imgName": "kyiv_destroyed_mall.jpg",
+    "descriptionUa": "Руїни зруйнованого російською гіперзвуковою ракетою ТРЦ Ретровіль. 8 людей загинуло.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 25
   }
 ]
