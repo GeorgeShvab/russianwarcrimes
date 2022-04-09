@@ -132,15 +132,15 @@
     "id": 25
   },
   {
-    "columnStart": "1",
+    "columnStart":  "1",
     "columnEnd": "5",
     "rowStart": "12",
     "rowEnd": "13",
-    "imgName": "destroyed_room.jpg",
-    "descriptionUa": "Згорівша квартира 96-літнього Бориса Романченка, чоловіка який пережив концлагерь Бухенвальд у часи Другої світової війни.",
+    "imgName": "bucha_bodies.jpg",
+    "descriptionUa": "Чоловіки, убиті на подвір'ї свого будинку.",
     "descriptionEn": "",
     "descriptionRu": "",
-    "id": 29
+    "id": 42
   },
   {
     "columnStart": "5",
@@ -158,10 +158,43 @@
     "columnEnd": "13",
     "rowStart": "12",
     "rowEnd": "13",
-    "imgName": "bucha_bodies.jpg",
-    "descriptionUa": "Чоловіки, убиті на подвір'ї свого будинку.",
+    "imgName": "destroyed_room.jpg",
+    "descriptionUa": "Згорівша квартира 96-літнього Бориса Романченка, чоловіка який пережив концлагерь Бухенвальд у часи Другої світової війни.",
     "descriptionEn": "",
     "descriptionRu": "",
-    "id": 42
+    "id": 29
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "13",
+    "rowStart": "13",
+    "rowEnd": "14",
+    "imgName": "destroyed_theater_of_mariupol.jpg",
+    "descriptionUa": "16 березня російські бомбардувальники завдали авіаудар по будівлі Драматичного театру в Маріуполі. У будинку переховувались за різними даними від 500 до 1200 людей. Близько 300 людей загинуло.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 7
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "8",
+    "rowStart": "14",
+    "rowEnd": "16",
+    "imgName": "chernihiv_destroyed_civilian_building.jpg",
+    "descriptionUa": "3 березня. Один зі зруйнованих будинків у Чернігові. У той день російські війська завдали ударів по житлових будинках міста, 47 людей загинуло.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 6
+  },
+  {
+    "columnStart": "8",
+    "columnEnd": "13",
+    "rowStart": "14",
+    "rowEnd": "15",
+    "imgName": "kharkiw_kindergarten.jpg",
+    "descriptionUa": "Дитячий садочок, попавший під обстріл. Харків.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 12
   }
 ]
