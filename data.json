@@ -196,5 +196,38 @@
     "descriptionEn": "",
     "descriptionRu": "",
     "id": 12
+  },
+  {
+    "columnStart": "8",
+    "columnEnd": "13",
+    "rowStart": "15",
+    "rowEnd": "18",
+    "imgName": "mykolayiv_oda.jpg",
+    "descriptionUa": "Зруйнована Миколаївська обласна державна адміністрація. Вранці 29 березня туди влучила крилата ракета. 38 цивільних осіб загинуло.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 45
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "8",
+    "rowStart": "16",
+    "rowEnd": "19",
+    "imgName": "wounded_child_mariupol.jpg",
+    "descriptionUa": "Шестирічна дівчинка в кареті швидкої. 27 лютого вона була поранена обстрілами російських окупантів. Через кілька годин вона помре.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 4
+  },
+  {
+    "columnStart": "8",
+    "columnEnd": "13",
+    "rowStart": "18",
+    "rowEnd": "19",
+    "imgName": "mariupol_downtown.jpg",
+    "descriptionUa": "Центр Маріуполя.",
+    "descriptionEn": "",
+    "descriptionRu": "",
+    "id": 44
   }
 ]
