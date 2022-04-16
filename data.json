@@ -1,233 +1,239 @@
-[
-    {
-        "columnStart": "1",
-        "columnEnd": "8",
-        "rowStart": "1",
-        "rowEnd": "3",
-        "imgName": "kharkiw_destroyed_house.jpg",
-        "descriptionUa": "Житловий будинок у Харкові, знищений у результаті російського обстрілу.",
-        "descriptionEn": "Residential building in Kharkiv destroyed by Russian shelling.",
-        "descriptionRu": "Жилой дом в Харькове, уничтоженный в результате российских обстрелов.",
-        "id": 9
-    },
-    {
-        "columnStart": "8",
-        "columnEnd": "13",
-        "rowStart": "1",
-        "rowEnd": "2",
-        "imgName": "irpin_body_on_a_bridge.jpg",
-        "descriptionUa": "Тіло мирного жителя на знищеному мості в Ірпіні.",
-        "descriptionEn": "The body of a civilian on a destroyed bridge in Irpin.",
-        "descriptionRu": "Тело мирного жителя на уничтоженном мосту в Ирпене.",
-        "id": 11
-    },
-    {
-        "columnStart": "8",
-        "columnEnd": "13",
-        "rowStart": "2",
-        "rowEnd": "5",
-        "imgName": "destroyed_houses_yasnogorodka.jpg",
-        "descriptionUa": "Результати обстрілу села Ясногородка на Київщині.",
-        "descriptionEn": "The results of the shelling of the village of Yasnogorodka in the Kyiv region.",
-        "descriptionRu": "Результаты обстрела села Ясногородка в Киевской области.",
-        "id": 19
-    },
-    {
-        "columnStart": "1",
-        "columnEnd": "8",
-        "rowStart": "3",
-        "rowEnd": "7",
-        "imgName": "kyiv_destroyed_houses.jpg",
-        "descriptionUa": "Знищені житлові будинки у Києві. 18 березня туди впала збита російська ракета. Одна людина загинула.",
-        "descriptionEn": "Dwelling houses in Kyiv were destroyed. On March 18, a downed Russian missile crashed there. One person died.",
-        "descriptionRu": "Уничтожены жилые дома в Киеве. 18 марта туда упала сбитая российская ракета. Один человек погиб.",
-        "id": 28
-    },
-    {
-        "columnStart": "8",
-        "columnEnd": "13",
-        "rowStart": "5",
-        "rowEnd": "7",
-        "imgName": "bodies_on_road.jpg",
-        "descriptionUa": "Згорівші автомобілі і тіла на Житомирській трасі під Києвом.",
-        "descriptionEn": "Burned cars and bodies on the Zhytomyr highway near Kyiv.",
-        "descriptionRu": "Сгорев автомобили и тела на Житомирской трассе под Киевом.",
-        "id": 39
-    },
-    {
-        "columnStart": "1",
-        "columnEnd": "13",
-        "rowStart": "7",
-        "rowEnd": "8",
-        "imgName": "mariupol_house_on_fire.jpg",
-        "descriptionUa": "Палаючий будинок в Маріуполі після російського обстрілу.",
-        "descriptionEn": "Burning house in Mariupol after the Russian shelling.",
-        "descriptionRu": "Горящий дом в Мариуполе после российского обстрела.",
-        "id": 17
-    },
-    {
-        "columnStart": "1",
-        "columnEnd": "6",
-        "rowStart": "8",
-        "rowEnd": "9",
-        "imgName": "kyiv_people_after_shelling.jpg",
-        "descriptionUa": "Поранений в результаті російського обстрілу мещканець Києва.",
-        "descriptionEn": "A resident of Kyiv was wounded in the Russian shelling.",
-        "descriptionRu": "Раненый в результате российского обстрела житель Киева.",
-        "id": 20
-    },
-    {
-        "columnStart": "6",
-        "columnEnd": "13",
-        "rowStart": "8",
-        "rowEnd": "9",
-        "imgName": "mariupol_graves_close_to_houses.jpg",
-        "descriptionUa": "Могили біля житлового будинку в Маріуполі.",
-        "descriptionEn": "Graves near a residential building in Mariupol.",
-        "descriptionRu": "Могилы возле жилого дома в Мариуполе.",
-        "id": 30
-    },
-    {
-        "columnStart": "1",
-        "columnEnd": "7",
-        "rowStart": "9",
-        "rowEnd": "10",
-        "imgName": "kharkiw_destroyed_city_administration.jpg",
-        "descriptionUa": "Харківська обласна державна адміністрація після влучання російської крилатої ракети 1 березня. Загинуло 29 людей.",
-        "descriptionEn": "Kharkiv Regional State Administration after a Russian cruise missile hit on March 1. 29 people died.",
-        "descriptionRu": "Харьковская областная государственная администрация после попадания российской крылатой ракеты 1 марта. Погибли 29 человек.",
-        "id": 2
-    },
-    {
-        "columnStart": "7",
-        "columnEnd": "13",
-        "rowStart": "9",
-        "rowEnd": "11",
-        "imgName": "kyiv_radio_tower.jpg",
-        "descriptionUa": "1 березня. Тіла загиблих після обстрілу київської телевежі окупаційними військами. Загинуло 5 нівчому не винних цивільних, ще 5 поранено.",
-        "descriptionEn": "March 1. The bodies of those killed after the shelling of the Kyiv TV tower by the occupying forces. 5 innocent civilians were killed and 5 others were injured.",
-        "descriptionRu": "1 марта. Тела погибших после обстрела киевской телебашни оккупационными войсками. Погибли 5 ни в чем не повинных гражданских, еще 5 ранены.",
-        "id": 3
-    },
-    {
-        "columnStart": "1",
-        "columnEnd": "7",
-        "rowStart": "10",
-        "rowEnd": "12",
-        "imgName": "irpin_on_fire.jpg",
-        "descriptionUa": "Ірпінь у вогні після бомбардування.",
-        "descriptionEn": "Irpen on fire after the bombing.",
-        "descriptionRu": "Ирпень в огне после бомбежки.",
-        "id": 8
-    },
-    {
-        "columnStart": "7",
-        "columnEnd": "13",
-        "rowStart": "11",
-        "rowEnd": "12",
-        "imgName": "kyiv_destroyed_mall.jpg",
-        "descriptionUa": "Руїни зруйнованого російською гіперзвуковою ракетою ТРЦ Ретровіль. 8 людей загинуло.",
-        "descriptionEn": "Ruins of the Retroville shopping mall destroyed by a Russian hypersonic missile. 8 people died.",
-        "descriptionRu": "Развалины разрушенного российской гиперзвуковой ракетой ТРЦ Ретровиль. 8 человек погибли.",
-        "id": 25
-    },
-    {
-        "columnStart": "1",
-        "columnEnd": "5",
-        "rowStart": "12",
-        "rowEnd": "13",
-        "imgName": "bucha_bodies.jpg",
-        "descriptionUa": "Чоловіки, убиті на подвір'ї свого будинку.",
-        "descriptionEn": "Men killed in the yard of his house.",
-        "descriptionRu": "Мужчины, убитые во дворе своего дома.",
-        "id": 42
-    },
-    {
-        "columnStart": "5",
-        "columnEnd": "9",
-        "rowStart": "12",
-        "rowEnd": "13",
-        "imgName": "mariupol_destroyed_buildings_and_cars.jpg",
-        "descriptionUa": "Згорівші автомобілі та знищені будинки в Маріуполі.",
-        "descriptionEn": "Burned cars and destroyed houses in Mariupol.",
-        "descriptionRu": "Сгорев автомобили и уничтожены дома в Мариуполе.",
-        "id": 34
-    },
-    {
-        "columnStart": "9",
-        "columnEnd": "13",
-        "rowStart": "12",
-        "rowEnd": "13",
-        "imgName": "destroyed_room.jpg",
-        "descriptionUa": "Згорівша квартира 96-літнього Бориса Романченка, чоловіка який пережив концлагерь Бухенвальд у часи Другої світової війни.",
-        "descriptionEn": "The apartment of 96-year-old Borys Romanchenko, a man who survived the Buchenwald concentration camp during World War II, burned down.",
-        "descriptionRu": "Сгоревшая квартира 96-летнего Бориса Романченко, мужа пережившего концлагерь Бухенвальд во время Второй мировой войны.",
-        "id": 29
-    },
-    {
-        "columnStart": "1",
-        "columnEnd": "13",
-        "rowStart": "13",
-        "rowEnd": "14",
-        "imgName": "destroyed_theater_of_mariupol.jpg",
-        "descriptionUa": "16 березня російські бомбардувальники завдали авіаудар по будівлі Драматичного театру в Маріуполі. У будинку переховувались за різними даними від 500 до 1200 людей. Близько 300 людей загинуло.",
-        "descriptionEn": "On March 16, Russian bombers struck an air strike on the building of the Drama Theater in Mariupol. According to various sources, from 500 to 1,200 people were hiding in the house. About 300 people died.",
-        "descriptionRu": "16 марта российские бомбардировщики нанесли авиаудар по зданию Драматического театра в Мариуполе. В доме скрывались по разным данным от 500 до 1200 человек. Около 300 человек погибли.",
-        "id": 7
-    },
-    {
-        "columnStart": "1",
-        "columnEnd": "8",
-        "rowStart": "14",
-        "rowEnd": "16",
-        "imgName": "chernihiv_destroyed_civilian_building.jpg",
-        "descriptionUa": "3 березня. Один зі зруйнованих будинків у Чернігові. У той день російські війська завдали ударів по житлових будинках міста, 47 людей загинуло.",
-        "descriptionEn": "March 3. One of the destroyed houses in Chernihiv. On that day, Russian troops struck residential buildings in the city, killing 47 people.",
-        "descriptionRu": "3 марта. Один из разрушенных домов в Чернигове. В тот день российские войска нанесли удары по жилым домам города, 47 человек погибли.",
-        "id": 6
-    },
-    {
-        "columnStart": "8",
-        "columnEnd": "13",
-        "rowStart": "14",
-        "rowEnd": "15",
-        "imgName": "kharkiw_kindergarten.jpg",
-        "descriptionUa": "Дитячий садочок, попавший під обстріл. Харків.",
-        "descriptionEn": "Kindergarten that came under fire. Kharkiv.",
-        "descriptionRu": "Детский садик, попавший под обстрел. Харьков.",
-        "id": 12
-    },
-    {
-        "columnStart": "8",
-        "columnEnd": "13",
-        "rowStart": "15",
-        "rowEnd": "18",
-        "imgName": "mykolayiv_oda.jpg",
-        "descriptionUa": "Зруйнована Миколаївська обласна державна адміністрація. Вранці 29 березня туди влучила крилата ракета. 38 цивільних осіб загинуло.",
-        "descriptionEn": "The Nikolaev regional state administration is destroyed. On the morning of March 29, a cruise missile hit there. 38 civilians were killed.",
-        "descriptionRu": "Разрушена Николаевская областная государственная администрация. Утром 29 марта туда попала крылатая ракета. 38 гражданских лиц погибли.",
-        "id": 45
-    },
-    {
-        "columnStart": "1",
-        "columnEnd": "8",
-        "rowStart": "16",
-        "rowEnd": "19",
-        "imgName": "wounded_child_mariupol.jpg",
-        "descriptionUa": "Шестирічна дівчинка в кареті швидкої. 27 лютого вона була поранена обстрілами російських окупантів. Через кілька годин вона помре.",
-        "descriptionEn": "Six-year-old girl in an ambulance. On February 27, she was wounded by shelling by the Russian occupiers. She will die in a few hours.",
-        "descriptionRu": "Шестилетняя девочка в карете скорой. 27 февраля она была ранена обстрелами русских оккупантов. Через несколько часов она умрет.",
-        "id": 4
-    },
-    {
-        "columnStart": "8",
-        "columnEnd": "13",
-        "rowStart": "18",
-        "rowEnd": "19",
-        "imgName": "mariupol_downtown.jpg",
-        "descriptionUa": "Центр Маріуполя.",
-        "descriptionEn": "The center of Mariupol.",
-        "descriptionRu": "Центр Мариуполя.",
-        "id": 44
-    }
-]
+{
+  "titles": {
+    "titleUa": "Злочини збройних сил Російської Федерації в українсько-російській війні",
+    "titleEn": "Crimes of the Armed Forces of the Russian Federation in the Ukrainian-Russian War",
+    "titleRu": "Преступления вооруженных сил Российской Федерации в украинско-российской войне"
+  },
+"descriptions": [
+  {
+    "columnStart": "1",
+    "columnEnd": "8",
+    "rowStart": "1",
+    "rowEnd": "3",
+    "imgName": "kharkiw_destroyed_house.jpg",
+    "descriptionUa": "Житловий будинок у Харкові, знищений у результаті російського обстрілу.",
+    "descriptionEn": "Residential building in Kharkiv destroyed by Russian shelling.",
+    "descriptionRu": "Жилой дом в Харькове, уничтоженный в результате российских обстрелов.",
+    "id": 9
+  },
+  {
+    "columnStart": "8",
+    "columnEnd": "13",
+    "rowStart": "1",
+    "rowEnd": "2",
+    "imgName": "irpin_body_on_a_bridge.jpg",
+    "descriptionUa": "Тіло мирного жителя на знищеному мості в Ірпіні.",
+    "descriptionEn": "The body of a civilian on a destroyed bridge in Irpin.",
+    "descriptionRu": "Тело мирного жителя на уничтоженном мосту в Ирпене.",
+    "id": 11
+  },
+  {
+    "columnStart": "8",
+    "columnEnd": "13",
+    "rowStart": "2",
+    "rowEnd": "5",
+    "imgName": "destroyed_houses_yasnogorodka.jpg",
+    "descriptionUa": "Результати обстрілу села Ясногородка на Київщині.",
+    "descriptionEn": "The results of shelling of village Yasnogorodka in Kyiv region.",
+    "descriptionRu": "Результаты обстрела села Ясногородка в Киевской области.",
+    "id": 19
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "8",
+    "rowStart": "3",
+    "rowEnd": "7",
+    "imgName": "kyiv_destroyed_houses.jpg",
+    "descriptionUa": "Знищені житлові будинки у Києві. 18 березня туди впала збита російська ракета. Одна людина загинула.",
+    "descriptionEn": "Destroyed residential houses in Kyiv. On March 18, downed Russian missile crashed there. One person died.",
+    "descriptionRu": "Уничтоженные жилые дома в Киеве. 18 марта туда упала сбитая российская ракета. Один человек погиб.",
+    "id": 28
+  },
+  {
+    "columnStart": "8",
+    "columnEnd": "13",
+    "rowStart": "5",
+    "rowEnd": "7",
+    "imgName": "bodies_on_road.jpg",
+    "descriptionUa": "Згорівші автомобілі і тіла на Житомирській трасі під Києвом.",
+    "descriptionEn": "Burned cars and bodies on Zhytomyr highway near Kyiv.",
+    "descriptionRu": "Тела и сгоревшие автомобили на Житомирской трассе под Киевом.",
+    "id": 39
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "13",
+    "rowStart": "7",
+    "rowEnd": "8",
+    "imgName": "mariupol_house_on_fire.jpg",
+    "descriptionUa": "Палаючий будинок в Маріуполі після російського обстрілу.",
+    "descriptionEn": "Burning house in Mariupol after Russian shelling.",
+    "descriptionRu": "Горящий дом в Мариуполе после российского обстрела.",
+    "id": 17
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "6",
+    "rowStart": "8",
+    "rowEnd": "9",
+    "imgName": "kyiv_people_after_shelling.jpg",
+    "descriptionUa": "Поранений в результаті російського обстрілу мещканець Києва.",
+    "descriptionEn": "A resident of Kyiv who was wounded by Russian shelling.",
+    "descriptionRu": "Раненый в результате российского обстрела житель Киева.",
+    "id": 20
+  },
+  {
+    "columnStart": "6",
+    "columnEnd": "13",
+    "rowStart": "8",
+    "rowEnd": "9",
+    "imgName": "mariupol_graves_close_to_houses.jpg",
+    "descriptionUa": "Могили біля житлового будинку в Маріуполі.",
+    "descriptionEn": "Graves near a residential buildings in Mariupol.",
+    "descriptionRu": "Могилы возле жилого дома в Мариуполе.",
+    "id": 30
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "7",
+    "rowStart": "9",
+    "rowEnd": "10",
+    "imgName": "kharkiw_destroyed_city_administration.jpg",
+    "descriptionUa": "Харківська обласна державна адміністрація після влучання російської крилатої ракети 1 березня. Загинуло 29 людей.",
+    "descriptionEn": "Kharkiv Regional State Administration after a Russian cruise missile hit on March 1. 29 people died.",
+    "descriptionRu": "Харьковская областная государственная администрация после попадания российской крылатой ракеты 1 марта. Погибли 29 человек.",
+    "id": 2
+  },
+  {
+    "columnStart": "7",
+    "columnEnd": "13",
+    "rowStart": "9",
+    "rowEnd": "11",
+    "imgName": "kyiv_radio_tower.jpg",
+    "descriptionUa": "1 березня. Тіла загиблих після обстрілу київської телевежі окупаційними військами. Загинуло 5 нівчому не винних цивільних, ще 5 поранено.",
+    "descriptionEn": "March 1. Bodies of those killed after the shelling of Kyiv TV tower by Russians. 5 innocent civilians were killed and 5 others were injured.",
+    "descriptionRu": "1 марта. Тела погибших после обстрела киевской телебашни оккупационными войсками. Погибли 5 ни в чем не повинных гражданских, еще 5 ранены.",
+    "id": 3
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "7",
+    "rowStart": "10",
+    "rowEnd": "12",
+    "imgName": "irpin_on_fire.jpg",
+    "descriptionUa": "Ірпінь у вогні після бомбардування.",
+    "descriptionEn": "Irpen on fire after the bombing.",
+    "descriptionRu": "Ирпень в огне после бомбежки.",
+    "id": 8
+  },
+  {
+    "columnStart": "7",
+    "columnEnd": "13",
+    "rowStart": "11",
+    "rowEnd": "12",
+    "imgName": "kyiv_destroyed_mall.jpg",
+    "descriptionUa": "Руїни зруйнованого російською гіперзвуковою ракетою ТРЦ Ретровіль. 8 людей загинуло.",
+    "descriptionEn": "Ruins of Retroville shopping mall destroyed by a Russian hypersonic missile. 8 people died.",
+    "descriptionRu": "Развалины разрушенного российской гиперзвуковой ракетой ТРЦ Ретровиль. 8 человек погибли.",
+    "id": 25
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "5",
+    "rowStart": "12",
+    "rowEnd": "13",
+    "imgName": "bucha_bodies.jpg",
+    "descriptionUa": "Чоловіки, убиті на подвір'ї свого будинку.",
+    "descriptionEn": "Men killed in the yard of their house.",
+    "descriptionRu": "Мужчины, убитые во дворе своего дома.",
+    "id": 42
+  },
+  {
+    "columnStart": "5",
+    "columnEnd": "9",
+    "rowStart": "12",
+    "rowEnd": "13",
+    "imgName": "mariupol_destroyed_buildings_and_cars.jpg",
+    "descriptionUa": "Згорівші автомобілі та знищені будинки в Маріуполі.",
+    "descriptionEn": "Burned cars and destroyed houses in Mariupol.",
+    "descriptionRu": "Сгоревшие автомобили и уничтоженные дома в Мариуполе.",
+    "id": 34
+  },
+  {
+    "columnStart": "9",
+    "columnEnd": "13",
+    "rowStart": "12",
+    "rowEnd": "13",
+    "imgName": "destroyed_room.jpg",
+    "descriptionUa": "Згорівша квартира 96-літнього Бориса Романченка, чоловіка який пережив концлагерь Бухенвальд у часи Другої світової війни, проте не пережив російського вторгнення.",
+    "descriptionEn": "Burned apartment of 96-year-old Borys Romanchenko, a man who survived the Buchenwald concentration camp during World War II but did`t survived the russian invasion.",
+    "descriptionRu": "Сгоревшая квартира 96-летнего Бориса Романченко, мужчины пережившего концлагерь Бухенвальд во время Второй мировой войны, но не пережил российского вторжения.",
+    "id": 29
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "13",
+    "rowStart": "13",
+    "rowEnd": "14",
+    "imgName": "destroyed_theater_of_mariupol.jpg",
+    "descriptionUa": "16 березня російські бомбардувальники завдали авіаудар по будівлі Драматичного театру в Маріуполі. У будинку переховувались за різними даними від 500 до 1200 людей. Близько 300 людей загинуло.",
+    "descriptionEn": "On March 16, Russian bombers struck an air strike on the building of the Drama Theater in Mariupol. According to various sources, from 500 to 1,200 people were hiding in the house. About 300 people died.",
+    "descriptionRu": "16 марта российские бомбардировщики нанесли авиаудар по зданию Драматического театра в Мариуполе. В доме скрывались по разным данным от 500 до 1200 человек. Около 300 человек погибли.",
+    "id": 7
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "8",
+    "rowStart": "14",
+    "rowEnd": "16",
+    "imgName": "chernihiv_destroyed_civilian_building.jpg",
+    "descriptionUa": "3 березня. Один зі зруйнованих будинків у Чернігові. У той день російські війська завдали ударів по житлових будинках міста. 47 людей загинуло.",
+    "descriptionEn": "March 3. One of the destroyed houses in Chernihiv. On that day, Russian troops struck residential buildings in the city. Killing 47 people.",
+    "descriptionRu": "3 марта. Один из разрушенных домов в Чернигове. В тот день российские войска нанесли удары по жилым домам города. 47 человек погибли.",
+    "id": 6
+  },
+  {
+    "columnStart": "8",
+    "columnEnd": "13",
+    "rowStart": "14",
+    "rowEnd": "15",
+    "imgName": "kharkiw_kindergarten.jpg",
+    "descriptionUa": "Дитячий садочок, попавший під російські обстріл. Харків.",
+    "descriptionEn": "Kindergarten that came under russian fire. Kharkiv.",
+    "descriptionRu": "Детский садик, попавший под российский обстрел. Харьков.",
+    "id": 12
+  },
+  {
+    "columnStart": "8",
+    "columnEnd": "13",
+    "rowStart": "15",
+    "rowEnd": "18",
+    "imgName": "mykolayiv_oda.jpg",
+    "descriptionUa": "Зруйнована Миколаївська обласна державна адміністрація. Вранці 29 березня туди влучила крилата ракета. 38 цивільних осіб загинуло.",
+    "descriptionEn": "Destroyed Nikolaev regional state administration. On the morning of March 29, a cruise missile hit there. 38 civilians were killed.",
+    "descriptionRu": "Разрушена Николаевская областная государственная администрация. Утром 29 марта туда попала крылатая ракета. 38 гражданских лиц погибли.",
+    "id": 45
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "8",
+    "rowStart": "16",
+    "rowEnd": "19",
+    "imgName": "wounded_child_mariupol.jpg",
+    "descriptionUa": "Шестирічна дівчинка в кареті швидкої. 27 лютого вона була поранена обстрілами російських військ. Через кілька годин вона помре.",
+    "descriptionEn": "Six year old girl in an ambulance. On February 27, she was wounded by the Russian shelling. She will die in a few hours.",
+    "descriptionRu": "Шестилетняя девочка в карете скорой. 27 февраля она была ранена обстрелами русских войск. Через несколько часов она умрет.",
+    "id": 4
+  },
+  {
+    "columnStart": "8",
+    "columnEnd": "13",
+    "rowStart": "18",
+    "rowEnd": "19",
+    "imgName": "mariupol_downtown.jpg",
+    "descriptionUa": "Центр Маріуполя.",
+    "descriptionEn": "The center of Mariupol.",
+    "descriptionRu": "Центр Мариуполя.",
+    "id": 44
+  }
+]}

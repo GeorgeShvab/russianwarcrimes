@@ -2,70 +2,70 @@
 	"titles": {
 			"titleUa": "Оберіть один з фондів щоб підтримати Україну",
 			"titleRu": "Выберите один из фондов, чтобы поддержать Украину",
-			"titleEn": "Choose one of the funds to support Ukraine",
+			"titleEn": "Choose one of the funds to support Ukraine"
 		},
 
 "founds": [
 	{
-		"img": "come-back-alive-logo.png",
+		"imgUrl": "come-back-alive-logo.png",
 		"nameEn": "Come Back Alive",
 		"nameRu": "Вернись назад живым",
 		"nameUa": "Повернись назад живим",
 		"titleEn": "Come back alive - your money will help Ukrainian army.",
 		"titleRu": "Вернись назад живым – ваши средства помогут украинской армии.",
 		"titleUa": "Повернись назад живим - ваші кошти допоможуть українській армії.",
-		"link": "https://www.comebackalive.in.ua/donate"
+		"url": "https://www.comebackalive.in.ua/donate"
 	},
 	{
-		"img": "nbu-logo.png",
+		"imgUrl": "nbu-logo.png",
 		"nameEn": "National Bank of Ukraine",
 		"nameRu": "Национальный Банк Украины",
 		"nameUa": "Національний Банк України",
 		"titleEn": "National Bank of Ukraine - the funds will go to various needs of Ukraine, including army, humanitarian aid, etc.",
 		"titleRu": "Национальный Банк Украины - средства пойдут на разные нужды Украины, включая армию, гуманитарную помощь.",
 		"titleUa": "Національний Банк України - кошти підуть на різні потреби України, включаючи армію, гуманітарну допомогу тощо.",
-		"link": "https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi"
+		"url": "https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi"
 	},
 	{
-		"img": "unicef-logo.png",
+		"imgUrl": "unicef-logo.png",
 		"nameEn": "UN Children's Fund",
 		"nameRu": "Детский фонд ООН",
 		"nameUa": "Дитячий фонд ООН",
 		"titleEn": "UN Children's Fund - the funds will go to help Ukrainian families affected by the war.",
 		"titleRu": "Детский фонд ООН - средства пойдут на помощь пострадавшим от войны украинским семьям.",
 		"titleUa": "Дитячий фонд ООН - кошти підуть на допомогу українським сім'ям які постраждали від війни.",
-		"link": "https://help.unicef.org/ukraine-emergency"
+		"url": "https://help.unicef.org/ukraine-emergency"
 	},
 	{
-		"img": "red-cross-ukraine-logo.png",
+		"imgUrl": "red-cross-ukraine-logo.png",
 		"nameEn": "Ukrainian Red Cross Society",
 		"nameRu": "Общество Красного Креста Украины",
 		"nameUa": "Товариство Червоного Хреста України",
 		"titleEn": "Red Cross Ukraine - your money will go to help Ukrainians affected by the war.",
 		"titleRu": "Красный Крест Украина – ваши средства пойдут на помощь пострадавшим от войны украинцам.",
 		"titleUa": "Червоний Хрест Україна - ваші кошти підуть на допомогу українцям, які постраждали від війни.",
-		"link": "https://donate.redcrossredcrescent.org/ua/donate/~my-donation?_cv=1"
+		"url": "https://donate.redcrossredcrescent.org/ua/donate/~my-donation?_cv=1"
 	},
 	{
-		"img": "unhcr-logo.png",
+		"imgUrl": "unhcr-logo.png",
 		"nameEn": "UN High Commissioner for Refugees",
 		"nameRu": "Управление Верховного комиссара ООН по делам беженцев",
 		"nameUa": "Управління Верховного комісара ООН у справах біженців",
 		"titleEn": "Fund of the UN Refugee Commission - funds will help refugees who have left Ukraine.",
 		"titleRu": "Фонд комиссии ООН по делам беженцев – средства помогут беженцам, покинувшим Украину.",
 		"titleUa": "Фонд комісі ООН в справах біженців - кошти допоможуть біженцям, які покинули Україну.",
-		"link": "https://donate.unhcr.org/int/en/ukraine-emergency"
+		"url": "https://donate.unhcr.org/int/en/ukraine-emergency"
 	},
 	{
-		"img": "donate-logo.png",
+		"imgUrl": "donate-logo.png",
 		"nameEn": "You can also find yourself another fund to help Ukraine",
 		"nameRu": "Или вы можете сами найти любой другой фонд для помощи Украине в интернете",
 		"nameUa": "Або, ви можете самі знайти будь-який інший фонд для допомоги Україні в інтернеті",
 		"titleEn": "You can also find yourself another fund to help Ukraine.",
 		"titleRu": "Или вы можете сами найти любой другой фонд для помощи Украине в интернете.",
 		"titleUa": "Або, ви можете самі знайти будь-який інший фонд для допомоги Україні в інтернеті.",
-		"link": "https://donate.unhcr.org/int/en/ukraine-emergency"
-	},
+		"url": "https://donate.unhcr.org/int/en/ukraine-emergency"
+	}
 
 
 ]}
