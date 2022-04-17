@@ -26,6 +26,7 @@
 		"titleUa": "Національний Банк України - кошти підуть на різні потреби України, включаючи армію, гуманітарну допомогу тощо.",
 		"url": "https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi"
 	},
+
 	{
 		"imgUrl": "unicef-logo.png",
 		"nameEn": "UN Children's Fund",
@@ -45,6 +46,26 @@
 		"titleRu": "Красный Крест Украина – ваши средства пойдут на помощь пострадавшим от войны украинцам.",
 		"titleUa": "Червоний Хрест Україна - ваші кошти підуть на допомогу українцям, які постраждали від війни.",
 		"url": "https://donate.redcrossredcrescent.org/ua/donate/~my-donation?_cv=1"
+	},
+	{
+		"imgUrl": "save-the-children-logo.png",
+		"nameEn": "Save the Children",
+		"nameRu": "Спасём детей",
+		"nameUa": "Врятуймо дітей",
+		"titleEn": "Save the Children - the funds will go to help Ukrainian children.",
+		"titleRu": "Спасём детей - средства пойдут на помощь украинским детям.",
+		"titleUa": "Врятуймо дітей – кошти підуть на допомогу українським дітям.",
+		"url": "https://www.savethechildren.org/us/where-we-work/ukraine"
+	},
+	{
+		"imgUrl": "kyiv-school-of-economics-logo.png",
+		"nameEn": "Kyiv School of Economics",
+		"nameRu": "Киевская школа экономики",
+		"nameUa": "Київська школа економіки",
+		"titleEn": "Kyiv School of Economics - your funds will go to help Ukraine in various fields.",
+		"titleRu": "Киевская школа экономики – ваши средства пойдут на помощь Украине в разных сферах.",
+		"titleUa": "Київська школа економіки - ваші кошти підуть на допомогу Україні в різних сферах.",
+		"url": "https://kse.ua/support/donation/"
 	},
 	{
 		"imgUrl": "unhcr-logo.png",

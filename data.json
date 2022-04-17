@@ -65,11 +65,11 @@
     "columnEnd": "13",
     "rowStart": "7",
     "rowEnd": "8",
-    "imgName": "mariupol_house_on_fire.jpg",
-    "descriptionUa": "Палаючий будинок в Маріуполі після російського обстрілу.",
-    "descriptionEn": "Burning house in Mariupol after Russian shelling.",
-    "descriptionRu": "Горящий дом в Мариуполе после российского обстрела.",
-    "id": 17
+    "imgName": "kyiv_region_exgumation.jpg",
+    "descriptionUa": "Ексгумація тіл у селі Вобля Київської області.",
+    "descriptionEn": "Exhumation of the bodies in Vobla, Kyiv region.",
+    "descriptionRu": "Эксгумация тел в селе Вобля Киевской области.",
+    "id": 50
   },
   {
     "columnStart": "1",
@@ -235,5 +235,93 @@
     "descriptionEn": "The center of Mariupol.",
     "descriptionRu": "Центр Мариуполя.",
     "id": 44
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "13",
+    "rowStart": "19",
+    "rowEnd": "20",
+    "imgName": "kharkiw_resident_with_her_son's_body.jpg",
+    "descriptionUa": "Жителька Харкова біля тіла свого п'ятнадцятирічного сина, загинувшого від російських обстрілів.",
+    "descriptionEn": "A resident of Kharkiv near body of her fifteen years old son, who died from Russian shelling.",
+    "descriptionRu": "Жительница Харькова у тела своего пятнадцатилетнего сына, погибшего от российских обстрелов.",
+    "id": 46
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "7",
+    "rowStart": "20",
+    "rowEnd": "21",
+    "imgName": "mariupol_body_near_combinate.jpg",
+    "descriptionUa": "Тіло біля металургійного комбінату в Маріуполі.",
+    "descriptionEn": "Body near the metallurgical plant in Mariupol.",
+    "descriptionRu": "Тело возле металлургического комбината в Киеве.",
+    "id": 47
+  },
+  {
+    "columnStart": "7",
+    "columnEnd": "13",
+    "rowStart": "20",
+    "rowEnd": "21",
+    "imgName": "chernihiv_destroyed_library.jpg",
+    "descriptionUa": "Зруйнована бібліотека в Чернігові.",
+    "descriptionEn": "Destroyed library in Chernihiv.",
+    "descriptionRu": "Разрушенная библиотека в Чернигове.",
+    "id": 48
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "8",
+    "rowStart": "21",
+    "rowEnd": "23",
+    "imgName": "bucha_exgumation.jpg",
+    "descriptionUa": "Ексгумація тіл з братської могили в Бучі.",
+    "descriptionEn": "Exhumation of bodies from the mass grave in Bucha.",
+    "descriptionRu": "Эксгумация тел из братской могилы в Буче.",
+    "id": 49
+  },
+  {
+    "columnStart": "8",
+    "columnEnd": "13",
+    "rowStart": "21",
+    "rowEnd": "22",
+    "imgName": "chernihiv_region_destroyed_houses.jpg",
+    "descriptionUa": "Зруйновані будинки на околицях Чернігова.",
+    "descriptionEn": "Destroyed houses on the outskirts of Chernihiv.",
+    "descriptionRu": "Разрушенные дома в окрестностях Чернигова.",
+    "id": 51
+  },
+  {
+    "columnStart": "8",
+    "columnEnd": "13",
+    "rowStart": "22",
+    "rowEnd": "24",
+    "imgName": "borodyanka_body_under_ruins.jpg",
+    "descriptionUa": "Тіло під руїнами в Бородянці.",
+    "descriptionEn": "Body under the ruins in Borodyanka.",
+    "descriptionRu": "Тело под развалинами в Бородянке.",
+    "id": 58
+  },
+  {
+    "columnStart": "1",
+    "columnEnd": "8",
+    "rowStart": "23",
+    "rowEnd": "25",
+    "imgName": "kramatorsk_bodies_in_the_railway_station.jpg",
+    "descriptionUa": "Залізнодорожній вокзал Краматорська після влучання російської ракети. Загинуло 52 людини, серед яких 5 дітей. На ракеті був напис 'за дітей'.",
+    "descriptionEn": "Kramatorsk railway station after a Russian missile hit. 52 people died, including 5 children. The rocket had the inscription 'for children'.",
+    "descriptionRu": "Железнодорожный вокзал Краматорска после попадания российской ракеты. Погибли 52 человека, среди которых 5 детей. На ракете была надпись 'за детей'.",
+    "id": 57
+  },
+  {
+    "columnStart": "8",
+    "columnEnd": "13",
+    "rowStart": "24",
+    "rowEnd": "25",
+    "imgName": "mariupol_children_microbus.jpg",
+    "descriptionUa": "Обстріляне авто з написом діти в Маріуполі.",
+    "descriptionEn": "Shelled car with the inscription children in Mariupol.",
+    "descriptionRu": "Обстрелянный автомобиль с надписью дети в Мариуполе.",
+    "id": 37
   }
 ]}
