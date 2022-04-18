@@ -295,18 +295,19 @@
     "columnStart": "8",
     "columnEnd": "13",
     "rowStart": "22",
-    "rowEnd": "24",
+    "rowEnd": "25",
     "imgName": "borodyanka_body_under_ruins.jpg",
     "descriptionUa": "Тіло під руїнами в Бородянці.",
     "descriptionEn": "Body under the ruins in Borodyanka.",
     "descriptionRu": "Тело под развалинами в Бородянке.",
     "id": 58
   },
+
   {
     "columnStart": "1",
     "columnEnd": "8",
     "rowStart": "23",
-    "rowEnd": "25",
+    "rowEnd": "26",
     "imgName": "kramatorsk_bodies_in_the_railway_station.jpg",
     "descriptionUa": "Залізнодорожній вокзал Краматорська після влучання російської ракети. Загинуло 52 людини, серед яких 5 дітей. На ракеті був напис 'за дітей'.",
     "descriptionEn": "Kramatorsk railway station after a Russian missile hit. 52 people died, including 5 children. The rocket had the inscription 'for children'.",
@@ -316,8 +317,8 @@
   {
     "columnStart": "8",
     "columnEnd": "13",
-    "rowStart": "24",
-    "rowEnd": "25",
+    "rowStart": "25",
+    "rowEnd": "26",
     "imgName": "mariupol_children_microbus.jpg",
     "descriptionUa": "Обстріляне авто з написом діти в Маріуполі.",
     "descriptionEn": "Shelled car with the inscription children in Mariupol.",
